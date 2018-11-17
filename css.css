@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    display: flex;
+    align-items: stretch;
+}
+.wrap > div{
+    width: 50%;
+}
+.wrap-img{
+    background-position: center;
+    background-size: cover;
+}
+.wrap-text{
+    padding: 50px;
+    box-sizing: border-box;
+}
